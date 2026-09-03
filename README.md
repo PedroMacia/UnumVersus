@@ -1,3 +1,34 @@
+> # ⚠ PEDRO, LEE ESTO ANTES DE PUBLICAR — y luego borra este bloque entero
+>
+> Este repo está **privado**. No se hace público hasta que el comercio y los
+> contratos estén terminados y el juego se pueda describir exacto. Cuando llegue
+> ese día, quedan cuatro cosas:
+>
+> **1. El vídeo.** Ojo, que muerde: **un `.mp4` metido en el repo NO se
+> reproduce en el README.** GitHub no lo incrusta. Solo hay dos formas que
+> funcionan:
+>
+> - **La buena:** arrastras el vídeo a un hilo de Discussions **desde el
+>   navegador**. GitHub te devuelve una URL suya, me la pegas en el chat, y esa
+>   sí se ve y se reproduce dentro del README. Esto **tienes que hacerlo tú**:
+>   yo no puedo arrastrar ficheros en tu navegador.
+> - Un **GIF**, que funciona siempre, pero pesa muchísimo para 20 segundos.
+>
+> **2. La captura fija.** Mientras no haya vídeo, aguanta una captura buena.
+> Tienes 197 en `tools/capturas_app/` y no voy a elegir yo cuál te representa:
+> dime el nombre de una —la del cielo o la del Sistema Solar, la que más orgullo
+> te dé— y la coloco.
+>
+> **3. Repasar la tabla del final de `THE_GAME.md`**, que se queda vieja el mismo
+> día que se escribe. Se hace de una vez, justo antes de publicar.
+>
+> **4. Borrar este bloque** y dar a público.
+>
+> Y recuerda por qué existe este repo separado: aquí buscas **ideas, no código**.
+> Mientras nadie te mande código, no tienes que decidir si vendes el juego.
+
+---
+
 # UnumVersus
 
 **A game about running a space company inside the real Milky Way.** Eight
