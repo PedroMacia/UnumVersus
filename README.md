@@ -14,10 +14,20 @@
 >   yo no puedo arrastrar ficheros en tu navegador.
 > - Un **GIF**, que funciona siempre, pero pesa muchísimo para 20 segundos.
 >
-> **2. La captura fija.** Mientras no haya vídeo, aguanta una captura buena.
-> Tienes 197 en `tools/capturas_app/` y no voy a elegir yo cuál te representa:
-> dime el nombre de una —la del cielo o la del Sistema Solar, la que más orgullo
-> te dé— y la coloco.
+> **2. Las capturas.** Pon todas las que quieras, pero **no todas aquí**:
+>
+> - **En este README, cinco como mucho** — una grande de portada y cuatro en
+>   rejilla. Es el escaparate: quien pasa de largo solo ve esto, y una portada
+>   de veinte fotos no la mira nadie. Los cinco huecos ya están montados abajo
+>   con su pie de foto.
+> - **Las demás, dentro de `THE_GAME.md`**, repartidas: cada una pegada al
+>   párrafo que ilustra. Ahí sí caben todas las que quieras, porque quien está
+>   leyendo eso ya ha decidido que le interesa. Ese documento tiene siete
+>   secciones y **cada una admite la suya**.
+>
+> Solo tienes que darme los nombres de `tools/capturas_app/` y decirme qué
+> enseña cada una; yo las copio a `img/` y las coloco. No hace falta que sean
+> nuevas: sirven las que ya tienes.
 >
 > **3. Repasar la tabla del final de `THE_GAME.md`**, que se queda vieja el mismo
 > día que se escribe. Se hace de una vez, justo antes de publicar.
@@ -36,10 +46,20 @@ million real stars from Gaia DR3, the planets where they actually are today,
 and materials that actually exist. No war, no victory screen — just the gap
 between what a kilo costs down here and what it is worth up there.
 
-<!-- VIDEO: pendiente. Se sustituye esta línea por el enlace que genera GitHub
-     al arrastrar el .mp4 a un comentario. Hasta entonces, la captura de abajo. -->
+<!-- VIDEO: pendiente. Se sustituye esta linea por el enlace que genera GitHub
+     al arrastrar el .mp4 a un comentario. Hasta entonces, las capturas. -->
 
-*A video of the sky goes here.*
+![The real sky](img/cielo.png)
+
+*Eight million stars, measured one by one by the Gaia spacecraft. Every one of
+them is really there.*
+
+| | |
+|:--:|:--:|
+| ![The Solar System](img/sistema.png) | ![A body's data sheet](img/ficha.png) |
+| **The Solar System, where it actually is today.** Go outside and check it. | **You start out knowing what humanity knows.** Everything else you measure yourself. |
+| ![The market](img/dinero.png) | ![The clock](img/reloj.png) |
+| **A kilo to the Moon costs a million euros.** That gap is the whole business. | **There is no pause key.** Real time *is* the pause — and the bills never stop. |
 
 ## Start here
 
