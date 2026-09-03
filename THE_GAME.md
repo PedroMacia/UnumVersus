@@ -88,10 +88,6 @@ that is built. As of 3 September 2026:
 | The observatory: four instruments, four questions | ✅ |
 | The clock as something the player drives, at four speeds | ✅ |
 | The mapping window: the globe of a body, to pick where to land | ✅ empty until there are probes |
-| The progress line and the contract | ✏️ designed, not a line of code |
-| Customers, tenders and contracts | ❌ |
+| The progress line: what the space agencies are going to do, year by year | ✏️ designed |
+| Contracts: they arrive, you bid for them, they get paid | ✅ |
 | Ships, mining, colonies, warehouses in more than one place | ❌ |
-
-The honest summary: **the sky and the money both work, and nothing joins them
-up yet.** Looking through the telescope earns you knowledge, and knowledge does
-not yet earn you anything. That bridge is the interesting problem right now.
