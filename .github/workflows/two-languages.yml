@@ -1,0 +1,43 @@
+# Every document is here twice, in English and in Spanish. This fails when a push
+# changes one of a pair without the other, or when the two no longer show the
+# same pictures and video.
+name: Both languages
+
+on: [push, pull_request]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Both files of each pair change together
+        if: github.event_name == 'push' && github.event.before != '0000000000000000000000000000000000000000'
+        run: |
+          changed=$(git diff --name-only "${{ github.event.before }}" "${{ github.sha }}")
+          fail=0
+          for en in README.md THE_GAME.md; do
+            es="${en%.md}.es.md"
+            a=$(echo "$changed" | grep -cx "$en" || true)
+            b=$(echo "$changed" | grep -cx "$es" || true)
+            if [ "$a" != "$b" ]; then
+              echo "::error::$en and $es must change together (changed: $en=$a, $es=$b)"
+              fail=1
+            fi
+          done
+          exit $fail
+
+      - name: Same pictures and video in each pair
+        run: |
+          fail=0
+          media() { grep -oE 'img/[A-Za-z0-9._-]+|https://github.com/user-attachments/assets/[a-f0-9-]+' "$1" | sort; }
+          for en in README.md THE_GAME.md; do
+            es="${en%.md}.es.md"
+            if ! diff <(media "$en") <(media "$es"); then
+              echo "::error::$en and $es do not show the same pictures and video"
+              fail=1
+            fi
+          done
+          exit $fail
