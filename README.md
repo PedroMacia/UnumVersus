@@ -65,6 +65,22 @@ your robot, a seismometer listening — and the Milky Way overhead.*
 *Every picture here is a screenshot of the game as it runs today, cursor and all.
 The game is in Spanish for now; it is being built to speak 25 languages.*
 
+## What you do in it
+
+- **Point real instruments at real stars.** Five of them, each answering one
+  question, the way real observatories work: a photometer that catches the dip a
+  planet leaves as it crosses its star, a velocity meter that weighs it, a
+  transit spectrograph that reads what its air is made of.
+- **Search the ground for what is buried in it.** Drive a scanner across
+  prospecting zones and find out what minerals are there, where the ice is — and
+  whether any of it is worth mining.
+- **Listen to the Moon.** Set up seismometers, magnetometers, heat-flow probes
+  and laser reflectors, as Apollo did. Three seismometers far enough apart hear
+  the meteorites hit, and tell you where.
+- **Build a base**, module by module, with your rover, your robot and your drone.
+
+All of it on the Moon, for now.
+
 ## Start here
 
 **→ [THE_GAME.md](THE_GAME.md) — the whole game in two minutes.**
