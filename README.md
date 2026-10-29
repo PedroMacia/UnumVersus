@@ -74,12 +74,13 @@ The game is in Spanish for now; it is being built to speak 25 languages.*
 - **Search the ground for what is buried in it.** Drive a scanner across
   prospecting zones and find out what minerals are there, where the ice is — and
   whether any of it is worth mining.
-- **Listen to the Moon.** Set up seismometers, magnetometers, heat-flow probes
-  and laser reflectors, as Apollo did. Three seismometers far enough apart hear
-  the meteorites hit, and tell you where.
+- **Listen to any planet or moon.** Set up seismometers, magnetometers,
+  heat-flow probes and laser reflectors, as Apollo did. Three seismometers far
+  enough apart hear the meteorites hit, and tell you where.
 - **Build a base**, module by module, with your rover, your robot and your drone.
 
-All of it on the Moon, for now.
+It all starts on the Moon, which is already playable — the rest of the Solar
+System comes after.
 
 ## Start here
 
