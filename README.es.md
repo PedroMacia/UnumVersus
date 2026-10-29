@@ -23,7 +23,7 @@ rover, tu robot, un sismómetro escuchando — y la Vía Láctea encima.*
 | **Concursos de verdad.** Si pides demasiado se lo lleva otro; si pides poco, lo ganas y pierdes dinero. | **Tú diseñas la nave, módulo a módulo.** Y la primera vez, la aterrizas tú. |
 
 *Todas las imágenes son capturas del juego tal como funciona hoy, con cursor y
-todo. De momento el juego está en español; se está haciendo para hablar 25
+todo. De momento el juego está en español; se está haciendo para 25
 idiomas.*
 
 ## Qué se hace en él

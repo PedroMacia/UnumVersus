@@ -23,7 +23,7 @@ your robot, a seismometer listening — and the Milky Way overhead.*
 | **Real tenders.** Bid too high and someone else takes it; too low and you win it and lose money. | **You design the ship, module by module.** And the first time, you land it yourself. |
 
 *Every picture here is a screenshot of the game as it runs today, cursor and all.
-The game is in Spanish for now; it is being built to speak 25 languages.*
+The game is in Spanish for now; it is being built for 25 languages.*
 
 ## What you do in it
 
