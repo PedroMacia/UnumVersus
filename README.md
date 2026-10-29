@@ -39,8 +39,8 @@ The game is in Spanish for now; it is being built for 25 languages.*
   enough apart hear the meteorites hit, and tell you where.
 - **Build a base**, module by module, with your rover, your robot and your drone.
 
-It all starts on the Moon, which is already playable — the rest of the Solar
-System comes after.
+It all starts on the Moon, which is already playable — the rest of the
+universe comes after.
 
 ## Start here
 

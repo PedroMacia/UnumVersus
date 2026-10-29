@@ -41,7 +41,7 @@ idiomas.*
   sismómetros bien separados oyen caer los meteoritos y te dicen dónde.
 - **Construir una base**, módulo a módulo, con tu rover, tu robot y tu dron.
 
-Todo empieza en la Luna, que ya se puede jugar — el resto del Sistema Solar
+Todo empieza en la Luna, que ya se puede jugar — el resto del universo
 viene después.
 
 ## Empieza aquí
