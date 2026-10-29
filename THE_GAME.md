@@ -11,6 +11,11 @@ ask for. That covers the bills, with little to spare.
 
 Your job is to make it into something more.
 
+<p align="center"><img src="img/home.webp" alt="Your company" width="60%"></p>
+
+*Your company on day one: observatory, shipyard, spaceport, factory, economy,
+warehouse, contracts. Colonies, later.*
+
 ## None of what you will see is made up
 
 You are in the Milky Way — the usual one, ours. The stars are the ones actually
@@ -23,6 +28,15 @@ helium-3. Not one of them is fiction.
 You start out knowing what humanity knows, which is a great deal. Everything
 beyond that, you will have to find out yourself.
 
+![The central peak of Tycho](img/tycho-peak.webp)
+
+*The central peak of the crater Tycho, from the real relief and the real photos.*
+
+![Tycho from 15 km up](img/tycho-2m.webp)
+
+*The same crater from 15 km up. The sharp square is NASA's two-metre mosaic; around
+it, the rest of the Moon at lower resolution.*
+
 ## The whole business fits into a single number
 
 Putting one kilo from Earth down on the surface of the Moon costs around
@@ -33,6 +47,10 @@ That gulf between the two prices is your entire business. Anything you manage to
 make up there — water, oxygen, fuel, girders — instead of lifting it from down
 here, is money. And anything you bring back has to be worth a lot per kilo for
 the trip to pay for itself.
+
+<p align="center"><img src="img/market.webp" alt="The market" width="60%"></p>
+
+*Twenty-seven real materials, prices that move, and the other companies trading.*
 
 ## And there are customers waiting
 
@@ -45,6 +63,11 @@ where the ice is.
 You bid. Too expensive and somebody else takes it; too cheap and you win it and
 lose money. And forty other companies are bidding against you.
 
+<p align="center"><img src="img/contract.webp" alt="A contract won" width="60%"></p>
+
+*Mapping Miranda, a moon of Uranus, for the European Space Agency. The bids are
+opened at the end: you took it 40 % under budget.*
+
 ## Then you go down there
 
 A contract is not a line in a spreadsheet. You design the ship that will fly it,
@@ -55,6 +78,25 @@ Down there you are standing on the real ground: real craters, real slopes, the
 Sun and the Earth where they really are in the sky. You drive a rover, you send a robot to dig,
 to set up a seismometer, to pick up a sample. You scan the ground for what is
 buried in it. And if it is worth it, you build a base, one module at a time.
+
+![The landing site](img/moon-base-labels.webp)
+
+*Everything has a name and a place: the lander, the rover, the robot, the drone,
+the antenna, the seismometer. And the Earth, 364,079 km away.*
+
+![Seen from the drone](img/landing-from-drone.webp)
+
+*The same kind of site seen from the support drone.*
+
+<p align="center"><img src="img/robot-seismometer.webp" alt="The robot switching on a seismometer" width="49%"> <img src="img/scan-relief.webp" alt="The relief around the base" width="49%"></p>
+
+*The robot switching on a seismometer, and the relief map of the area with the
+zones the rover has scanned.*
+
+![The mining table](img/mining-table.webp)
+
+*What the scanner found, zone by zone, and whether it is worth mining: most of the
+time it is not.*
 
 ## The clock runs, and you are the one running it
 
@@ -104,6 +146,8 @@ that is built. As of 29 October 2026.
 | What humanity already knows: the planets found so far, and the atmospheres measured by Hubble and Webb | ✅ |
 | Your telescope only shows what it can reach; better telescopes, more sky | ✅ |
 
+<p align="center"><img src="img/sky-orion.webp" alt="Orion from your observatory" width="80%"></p>
+
 ### The Solar System
 
 | | |
@@ -111,6 +155,12 @@ that is built. As of 29 October 2026.
 | Every planet and moon at its real position today | ✅ |
 | The globe of each body: photo, relief and minerals, from the real missions | ✅ 31 bodies |
 | Mapping the moons nobody has seen up close, with probes | ✅ the first mission is still on its way |
+
+![The Solar System](img/solar-system.webp)
+
+<p align="center"><img src="img/moon-photo.webp" alt="The Moon, photo" width="32%"> <img src="img/moon-relief.webp" alt="The Moon, relief" width="32%"> <img src="img/moon-thorium.webp" alt="The Moon, thorium" width="32%"></p>
+
+*The globe of the Moon: the photo, the relief, and where the thorium is, from Lunar Prospector.*
 
 ### The company
 
@@ -121,6 +171,8 @@ that is built. As of 29 October 2026.
 | Invoices, taxes, an advance of half the price when you win a contract | ✅ |
 | A bank that lends against what you are owed | ✅ |
 | Stock: what you bought, where it is, what was lost on the way | ✅ |
+
+<p align="center"><img src="img/stock.webp" alt="The stock" width="60%"></p>
 
 ### Contracts
 
@@ -142,6 +194,8 @@ that is built. As of 29 October 2026.
 | A shipyard: three hulls and the modules you put in them (engine, tanks, cargo, lander, probes) | ✅ |
 | A spaceport, and a list of your ships with the history of each one | ✅ |
 | A tech tree of everything that can be built, and what each thing needs | ✅ |
+
+<p align="center"><img src="img/spaceport.webp" alt="The spaceport" width="49%"> <img src="img/factory.webp" alt="The factory" width="49%"></p>
 
 ### On the surface of the Moon (PC only)
 

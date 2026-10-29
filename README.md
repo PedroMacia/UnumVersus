@@ -13,7 +13,8 @@
 >   yo no puedo arrastrar ficheros en tu navegador.
 > - Un **GIF**, que funciona siempre, pero pesa muchísimo para 20 segundos.
 >
-> **2. Las capturas.** Pon todas las que quieras, pero **no todas aquí**:
+> **2. Las capturas.** ✅ Puestas el 29/10 (19, de `Recursos/GitHub publico/`,
+> en webp). Si añades más:
 >
 > - **En este README, cinco como mucho** — una grande de portada y cuatro en
 >   rejilla. Es el escaparate: quien pasa de largo solo ve esto, y una portada
@@ -49,17 +50,20 @@ costs down here and what it is worth up there.
 <!-- VIDEO: pendiente. Se sustituye esta linea por el enlace que genera GitHub
      al arrastrar el .mp4 a un comentario. Hasta entonces, las capturas. -->
 
-![On the Moon](img/luna.png)
+![On the Moon](img/moon-base.webp)
 
-*The real Moon, photographed by NASA down to two metres. Your rover, your robot,
-your base.*
+*The real Moon, photographed by NASA down to two metres. Your lander, your rover,
+your robot, a seismometer listening — and the Milky Way overhead.*
 
 | | |
 |:--:|:--:|
-| ![The real sky](img/cielo.png) | ![The Solar System](img/sistema.png) |
+| ![The real sky](img/sky-orion.webp) | ![The Solar System](img/solar-system.webp) |
 | **Eight million stars, measured one by one by Gaia.** Every one of them is really there. | **The Solar System, where it actually is today.** Go outside and check it. |
-| ![Contracts](img/contratos.png) | ![The shipyard](img/astillero.png) |
-| **A kilo to the Moon costs 330,000 euros.** That gap is the whole business. | **You design the ship, module by module.** And the first time, you land it yourself. |
+| ![A tender](img/contract.webp) | ![The spaceport](img/spaceport.webp) |
+| **Real tenders.** Bid too high and someone else takes it; too low and you win it and lose money. | **You design the ship, module by module.** And the first time, you land it yourself. |
+
+*Every picture here is a screenshot of the game as it runs today, cursor and all.
+The game is in Spanish for now; it is being built to speak 25 languages.*
 
 ## Start here
 
