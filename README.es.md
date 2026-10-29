@@ -56,8 +56,17 @@ Un escaparate, no el código. El código vive en un repositorio privado; lo que
 hay aquí es el diseño — para que se pueda leer cómo tiene que funcionar,
 discutirlo y proponer lo que le falta.
 
-**Lo que busco son ideas, no parches.** Al juego le queda mucho para estar
-terminado, y los problemas interesantes son de diseño, no de programación.
+**Lo que busco:**
+
+- **Ideas.** Al juego le queda mucho para estar terminado, y los problemas
+  interesantes son de diseño, no de programación.
+- **Gente que sepa de ciencia** — astronomía, geología, el sector espacial —
+  que me diga «esto no es así». Un juego que presume de que nada es inventado lo
+  necesita más que nada.
+- **Gente que lo pruebe**, cuando haya una versión para probar. Todavía no la
+  hay.
+
+El código, de momento, es cosa mía.
 
 **→ Pásate por [Discussions](../../discussions).** Ahí es donde pasa todo. Se
 puede escribir en español.

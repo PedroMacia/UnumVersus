@@ -54,8 +54,17 @@ A window, not the source. The code lives in a private repository; what is here
 is the design — so that people can read how the thing is meant to work, argue
 with it, and suggest what it is missing.
 
-**What I am looking for is ideas, not patches.** The game is a long way from
-finished and the interesting problems are design problems, not coding ones.
+**What I am looking for:**
+
+- **Ideas.** The game is a long way from finished, and the interesting problems
+  are design problems, not coding ones.
+- **People who know the science** — astronomy, geology, the space industry —
+  to tell me "that is not how it works". A game that boasts that nothing in it
+  is made up needs that more than anything.
+- **People to play-test it**, once there is a version to test. There is none
+  yet.
+
+The code, for now, is mine to write.
 
 **→ Head for [Discussions](../../discussions).** That is where it happens, in
 English or in Spanish.
