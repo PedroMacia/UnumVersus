@@ -3,7 +3,8 @@
 > Este repo está **privado**. El 29/10 se puso al día el texto y la tabla de lo
 > construido; para publicarlo quedan cuatro cosas:
 >
-> **1. El vídeo.** Ojo, que muerde: **un `.mp4` metido en el repo NO se
+> **1. El vídeo.** ✅ Puesto el 29/10 (Demo001_576p, desde el hilo de
+> Announcements). Si se cambia, lo mismo: **un `.mp4` metido en el repo NO se
 > reproduce en el README.** GitHub no lo incrusta. Solo hay dos formas que
 > funcionan:
 >
@@ -47,8 +48,7 @@ and materials that actually exist — and then you land on the real Moon and
 go to work on it. No war, no victory screen — just the gap between what a kilo
 costs down here and what it is worth up there.
 
-<!-- VIDEO: pendiente. Se sustituye esta linea por el enlace que genera GitHub
-     al arrastrar el .mp4 a un comentario. Hasta entonces, las capturas. -->
+https://github.com/user-attachments/assets/de156010-54b3-485a-8aee-d7d9b7a57acf
 
 ![On the Moon](img/moon-base.webp)
 
