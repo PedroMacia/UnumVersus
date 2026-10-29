@@ -122,13 +122,19 @@ will open it and the company will be gone.
 
 ## You are alone — and maybe not forever
 
-This Milky Way is yours, and so is its Moon. You will never run into anybody
-inside it: the only thing you share with the other players in the world is the
-price of things.
+This Milky Way is yours, and so is its Moon. But you are not the only one: in
+this same universe, at the same time as you, many others are playing, each in a
+galaxy of their own — one of the galaxies that are really out there.
 
-But a long, long time from now, when somebody builds an engine that can leave
-this galaxy and reach another, they might find someone there. **Nobody has made
-it yet**, and what happens on the day somebody does has not been decided.
+You will not run into them. The only thing you share with them is the price of
+things: when iridium has been climbing for months, you know that somebody,
+somewhere, is looking for it.
+
+Perhaps hundreds of years from now somebody will build a warp drive able to
+leave their galaxy and reach another. And there they might find someone. The
+odds are small, because the universe is huge, but they are not zero. **Nobody
+has made it yet**, and what happens on the day somebody does has not been
+decided.
 
 ## Year 1 of your company begins when you close this page.
 

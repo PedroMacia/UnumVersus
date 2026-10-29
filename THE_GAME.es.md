@@ -123,12 +123,17 @@ día lo abrirás y la empresa ya no estará.
 
 ## Estás solo — y quizá no para siempre
 
-Esta Vía Láctea es tuya, y su Luna también. Dentro de ella no te vas a cruzar
-nunca con nadie: lo único que compartes con los demás jugadores del mundo es el
-precio de las cosas.
+Esta Vía Láctea es tuya, y su Luna también. Pero no eres el único: en este mismo
+universo, y a la vez que tú, juegan muchos otros, cada uno en su propia galaxia
+— una de las que hay ahí fuera de verdad.
 
-Pero dentro de mucho, mucho tiempo, cuando alguien construya un motor capaz de
-salir de esta galaxia y llegar a otra, puede que encuentre a alguien allí.
+No te vas a cruzar con ellos. Lo único que compartes con los demás es el precio
+de las cosas: cuando el iridio lleva meses subiendo, sabes que alguien, en algún
+sitio, lo está buscando.
+
+Quizá dentro de cientos de años alguien construya un motor de curvatura capaz de
+salir de su galaxia y llegar a otra. Y puede que allí encuentre a alguien. Las
+probabilidades son pocas, porque el universo es enorme, pero no son cero.
 **Nadie lo ha conseguido todavía**, y lo que pase el día que alguien lo consiga
 está por decidir.
 
