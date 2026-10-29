@@ -1,3 +1,5 @@
+**English** · [Español](THE_GAME.es.md)
+
 # UnumVersus — the game in two minutes
 
 **Today you were made CEO of a company that puts satellites into orbit.**

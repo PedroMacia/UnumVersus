@@ -35,10 +35,17 @@
 >
 > **4. Borrar este bloque** y dar a público.
 >
+> **Dos idiomas (29/10).** Cada documento está dos veces: `README.md` y
+> `README.es.md`, `THE_GAME.md` y `THE_GAME.es.md`. **Se cambian siempre los
+> dos en el mismo commit**; si no, la comprobación de GitHub (Actions) se pone
+> en rojo y dice cuál falta. El inglés es el principal.
+>
 > Y recuerda por qué existe este repo separado: aquí buscas **ideas, no código**.
 > Mientras nadie te mande código, no tienes que decidir si vendes el juego.
 
 ---
+
+**English** · [Español](README.es.md)
 
 # UnumVersus
 
@@ -97,7 +104,8 @@ with it, and suggest what it is missing.
 **What I am looking for is ideas, not patches.** The game is a long way from
 finished and the interesting problems are design problems, not coding ones.
 
-**→ Head for [Discussions](../../discussions).** That is where it happens.
+**→ Head for [Discussions](../../discussions).** That is where it happens, in
+English or in Spanish.
 
 ## Who is doing this
 
