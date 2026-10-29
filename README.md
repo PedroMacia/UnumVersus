@@ -37,8 +37,9 @@
 >
 > **Dos idiomas (29/10).** Cada documento está dos veces: `README.md` y
 > `README.es.md`, `THE_GAME.md` y `THE_GAME.es.md`. **Se cambian siempre los
-> dos en el mismo commit**; si no, la comprobación de GitHub (Actions) se pone
-> en rojo y dice cuál falta. El inglés es el principal.
+> dos en el mismo commit**. El inglés es el principal. (La comprobación
+> automática está escrita pero sin subir: la clave de GitHub de Claude no tiene
+> permiso para workflows.)
 >
 > Y recuerda por qué existe este repo separado: aquí buscas **ideas, no código**.
 > Mientras nadie te mande código, no tienes que decidir si vendes el juego.
