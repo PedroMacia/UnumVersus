@@ -1,8 +1,7 @@
 > # ⚠ PEDRO, LEE ESTO ANTES DE PUBLICAR — y luego borra este bloque entero
 >
-> Este repo está **privado**. No se hace público hasta que el comercio y los
-> contratos estén terminados y el juego se pueda describir exacto. Cuando llegue
-> ese día, quedan cuatro cosas:
+> Este repo está **privado**. El 29/10 se puso al día el texto y la tabla de lo
+> construido; para publicarlo quedan cuatro cosas:
 >
 > **1. El vídeo.** Ojo, que muerde: **un `.mp4` metido en el repo NO se
 > reproduce en el README.** GitHub no lo incrusta. Solo hay dos formas que
@@ -22,15 +21,15 @@
 >   con su pie de foto.
 > - **Las demás, dentro de `THE_GAME.md`**, repartidas: cada una pegada al
 >   párrafo que ilustra. Ahí sí caben todas las que quieras, porque quien está
->   leyendo eso ya ha decidido que le interesa. Ese documento tiene siete
->   secciones y **cada una admite la suya**.
+>   leyendo eso ya ha decidido que le interesa. Ese documento tiene ocho
+>   secciones y **cada una admite la suya**, y la tabla del final, más.
 >
 > Solo tienes que darme los nombres de `tools/capturas_app/` y decirme qué
 > enseña cada una; yo las copio a `img/` y las coloco. No hace falta que sean
 > nuevas: sirven las que ya tienes.
 >
-> **3. Repasar la tabla del final de `THE_GAME.md`**, que se queda vieja el mismo
-> día que se escribe. Se hace de una vez, justo antes de publicar.
+> **3. Repasar otra vez la tabla del final de `THE_GAME.md`** justo antes de
+> publicar: se puso al día el 29/10 y se queda vieja enseguida.
 >
 > **4. Borrar este bloque** y dar a público.
 >
@@ -43,23 +42,24 @@
 
 **A game about running a space company inside the real Milky Way.** Eight
 million real stars from Gaia DR3, the planets where they actually are today,
-and materials that actually exist. No war, no victory screen — just the gap
-between what a kilo costs down here and what it is worth up there.
+and materials that actually exist — and then you land on the real Moon and
+go to work on it. No war, no victory screen — just the gap between what a kilo
+costs down here and what it is worth up there.
 
 <!-- VIDEO: pendiente. Se sustituye esta linea por el enlace que genera GitHub
      al arrastrar el .mp4 a un comentario. Hasta entonces, las capturas. -->
 
-![The real sky](img/cielo.png)
+![On the Moon](img/luna.png)
 
-*Eight million stars, measured one by one by the Gaia spacecraft. Every one of
-them is really there.*
+*The real Moon, photographed by NASA down to two metres. Your rover, your robot,
+your base.*
 
 | | |
 |:--:|:--:|
-| ![The Solar System](img/sistema.png) | ![A body's data sheet](img/ficha.png) |
-| **The Solar System, where it actually is today.** Go outside and check it. | **You start out knowing what humanity knows.** Everything else you measure yourself. |
-| ![The market](img/dinero.png) | ![The clock](img/reloj.png) |
-| **A kilo to the Moon costs a million euros.** That gap is the whole business. | **There is no pause key.** Real time *is* the pause — and the bills never stop. |
+| ![The real sky](img/cielo.png) | ![The Solar System](img/sistema.png) |
+| **Eight million stars, measured one by one by Gaia.** Every one of them is really there. | **The Solar System, where it actually is today.** Go outside and check it. |
+| ![Contracts](img/contratos.png) | ![The shipyard](img/astillero.png) |
+| **A kilo to the Moon costs 330,000 euros.** That gap is the whole business. | **You design the ship, module by module.** And the first time, you land it yourself. |
 
 ## Start here
 
